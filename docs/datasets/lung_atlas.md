@@ -1,3 +1,8 @@
+---
+title: Lung Atlas v0.1
+parent: datasets
+---
+
 # Lung Atlas v0.1
 Lung samplse `L05` to `L15`
 
