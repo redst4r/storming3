@@ -1,11 +1,22 @@
 ---
 title: Team
-nav_order: 2
 layout: default
+# parent: Home
+nav_order: 3
 ---
+
+```python
+import collections as cc
+```
+
+
+> AAA
+> BBB
 
 # Team
 
 - UCSF
+- McGill
 - ISB
-- ...
+- Buck
+- Stanford

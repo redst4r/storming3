@@ -1,8 +1,10 @@
 ---
-title: Esophagus Atlas v1.0
-parent: datasets
+title: Esophagus
+parent: Datasets
+layout: default
+nav_order: 1
 ---
-# Eso Atlas
+# Esophagus
 
 ## Abstract
 adgfadhfsdfh

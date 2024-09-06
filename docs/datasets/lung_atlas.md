@@ -1,9 +1,11 @@
 ---
-title: Lung Atlas v0.1
-parent: datasets
+title: Lung
+parent: Datasets
+layout: default
+nav_order: 2
 ---
 
-# Lung Atlas v0.1
+# Lung
 Lung samplse `L05` to `L15`
 
 ## Data
